@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+*{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+body{
+    margin: 0px;
+    
+}
+.tudo{
+    margin: 1%;
+}
+.banner{
+    display: flex;
+    justify-content: space-between;
+}
+.logo{
+    width: 7%;
+}
+.botões{
+    width: 40%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 1%;
+}
+button{
+    border-color: transparent;
+    background-color: transparent;
+    font-size: 100%;
+    font-family: poppins, sans-serif;
+}
+.logo{
+    margin-top: 1%;
+}
+.título1{
+    color: #6db4b8;
+    margin-top: 6%;
+    font-size: 220%;
+    font-family: poppins, sans-serif;
+    font-weight: bold;
+}
+.aminas{
+    color: #77c7c4;
+    margin-top: 4%;
+    font-family: poppins, sans-serif;
+    font-size: 150%;
+}
+p{
+    font-size: 130%;
+    text-align: justify;
+    text-indent: 1.5%;
+    line-height: 150%;
+    font-family: poppins, sans-serif;
+}
+.função{
+    display: flex;
+    width: 100%;
+    height: 50%;
+    justify-content: space-around;
+}
+.foto1{
+    margin: auto;
+}
+.img1{
+    width: 90%;
+    height: 50%;
+}
+.p1{
+    width: 75%;
+    font-family: poppins, sans-serif;
+}
+li{
+    font-size: 125%;
+    line-height: 150%;
+    font-family: poppins, sans-serif;
+}
+.grupo{
+    color: #77c7c4;
+    margin-top: 4%;
+    font-family: poppins, sans-serif;
+    font-size: 150%;
+}
+.grupofuncional{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.img2{
+    width: 60%;
+}
+.nomenclatura1{
+    color: #77c7c4;
+    margin-bottom: 1%;
+    font-family: poppins, sans-serif;
+    font-size: 150%;
+}
+.nomenclatura2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.img3{
+    width: 60%;
+    margin-top: 1%;
+}
+.aplicações1{
+    color: #77c7c4;
+    margin-bottom: 2%;
+    margin-top: 4%;
+    font-family: poppins, sans-serif;
+    font-size: 150%;
+}
+.aplicações2{
+    margin-top: 1%;
+}
+.obtenção1{
+    color: #77c7c4;
+    margin-top: 4%;
+    font-family: poppins, sans-serif;
+    font-size: 150%;
+}
+.obtenção2{
+    margin-top: 1%;
+}
+ul{
+    font-size: 125%;
+    line-height: 150%;
+    font-family: poppins, sans-serif;
+}
+footer{
+    height: 150px;
+    display: flex;
+    background-color: #6db4b8;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5%;
+}
+.logo2{
+    width: 10%;
+}
